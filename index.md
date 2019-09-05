@@ -10,7 +10,8 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 # Current Class Goal
 
-Complete "Around the House", "Tech Spotlight", and "Everyday Algorithms" found in the "Understanding Technology" Unit.//
-Complete "Scratch" found in "Unit 0".
-***
-Become familiar with https://submit.cs50.io for seeing your submissions!
+* Complete "Around the House", "Tech Spotlight", and "Everyday Algorithms" found in the "Understanding Technology" Unit.
+
+* Complete "Scratch" found in "Unit 0".
+---
+* Become familiar with [https://submit.cs50.io] for seeing your submissions!
