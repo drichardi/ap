@@ -8,8 +8,9 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 <iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
 
-# Current Class Goal
+# Current Class Goals
 
+#### Curriculum
 * Complete ["Around the House"](https://docs.cs50.net/2019/ap/problems/house/house.htm), ["Tech Spotlight"](https://docs.cs50.net/2019/ap/problems/tech/tech.html), and ["Everyday Algorithms"](https://docs.cs50.net/2019/ap/problems/algorithms/algorithms.html) found in the ["Understanding Technology"](../curriculum/understanding_technology/) Unit.
 
 * Complete "Scratch" found in "Unit 0".
