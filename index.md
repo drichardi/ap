@@ -15,4 +15,4 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 + Complete ["Scratch"](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) found in ["Unit 0"](../curriculum/0/).
 
-+ Become familiar with [https://submit.cs50.io] for seeing your submissions!
++ Become familiar with [https://submit.cs50.io](https://submit.cs50.io) for seeing your submissions!
