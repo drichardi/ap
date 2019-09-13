@@ -18,8 +18,8 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 * Complete ["Fahrenheit"](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html).
 
 ##### Chapter 0 and Understanding Technology
-* Complete ["Around the House"](https://docs.cs50.net/2019/ap/problems/house/house.htm), ["Tech Spotlight"](https://docs.cs50.net/2019/ap/problems/tech/tech.html), and ["Everyday Algorithms"](https://docs.cs50.net/2019/ap/problems/algorithms/algorithms.html) found in the ["Understanding Technology"](/curriculum/understanding_technology/) Unit.
+* Complete ["Around the House"](https://docs.cs50.net/2019/ap/problems/house/house.htm), ["Tech Spotlight"](https://docs.cs50.net/2019/ap/problems/tech/tech.html), and ["Everyday Algorithms"](https://docs.cs50.net/2019/ap/problems/algorithms/algorithms.html) found in the ["Understanding Technology"](https://drichardi.github.io/ap/curriculum/understanding_technology/) Unit.
 
-+ Complete ["Scratch"](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) found in ["Unit 0"](/curriculum/0/).
++ Complete ["Scratch"](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html) found in ["Unit 0"](https://drichardi.github.io/ap/curriculum/).
 
 + Become familiar with [https://submit.cs50.io](https://submit.cs50.io) for seeing your submissions!
