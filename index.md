@@ -1,13 +1,6 @@
 ---
 title: false
 ---
-
-# Hello, world!
-
-This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
-
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
-
 # Current Class Goals
 
 #### Upcoming Quiz on Vocab and Binary on Wednesday!
@@ -24,3 +17,11 @@ This is CS50 AP, Harvard University's introduction to the intellectual enterpris
 
 
 + Become familiar with [https://submit.cs50.io](https://submit.cs50.io) for seeing your submissions!
+
+
+# Hello, world!
+
+This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
+
+<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe>
+
