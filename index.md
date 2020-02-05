@@ -3,18 +3,14 @@ title: false
 ---
 # Current Class Goals
 
-#### Upcoming Quiz on Vocab and Binary on Wednesday!
-* Round 2 of the end of Chapter 1 quiz on vocab / binary is this Wednesday. Also includes control flow (if / else blocks, loops).
+#### New Chapter 3 Material!
+* Make sure you look over the new curriculum materials for Chapter 3.
 
 #### Curriculum
-##### Chapter 2
-* Complete ["Old Friends"](https://docs.cs50.net/2019/ap/problems/friends/friends.html).
-* Complete ["Calc"](https://docs.cs50.net/2019/ap/problems/calc/calc.html).
-* Complete ["Caesar"](https://docs.cs50.net/2019/ap/problems/caesar/caesar.html).
-* Complete ["Vigenere"](https://docs.cs50.net/2019/ap/problems/vigenere/vigenere.html).
-
-* Optional ["Crack"](https://docs.cs50.net/2019/ap/problems/crack/crack.html). - Difficult
-
+##### Chapter 3
+* Complete ["Fifteen"](https://docs.cs50.net/2019/ap/problems/fifteen/fifteen.html).
+* Complete ["WhoDunIt"](https://docs.cs50.net/2019/ap/problems/whodunit/whodunit.html).
+* Resize and Recover will be in class activities.
 
 + Become familiar with [https://submit.cs50.io](https://submit.cs50.io) for seeing your submissions!
 
